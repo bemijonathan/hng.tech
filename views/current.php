@@ -13,15 +13,15 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img src="../app/img/interns/m.jpg" alt="">
+     					  <h6>Jonathan Atiene</h6>
+                 <p> I am Jonathan Atiene am a Web Developer, a lover of Javascript, and an Anatomist by proffession i hope to change the world one line of code at a time</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://twitter.com/bemijonathan" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://github.com/bemijonathan" target="_blank"<i class="fab fa-github"></i></a></li>
+                            <li><a href="https://medium.com/@bemijonathan" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+     					    <a href="cooljoe" class="btn-view">view profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
